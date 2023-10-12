@@ -1,0 +1,11 @@
+.bg-icon-login {
+    color: #8e12a3;
+}
+
+.bg-icon-password {
+    color: #9cabc5;
+}
+
+.bg-icon-password:hover {
+    color: #8e12a3;
+}

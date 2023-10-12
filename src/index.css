@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@200;300&display=swap");
+
+body {
+  background-color: #eeeff4;
+  margin: 0;
+  padding: 0;
+}
+
+title {
+  font-family: Kanit, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Kanit, sans-serif !important;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+:focus-visible {
+  outline: -webkit-focus-ring-color auto 0px;
+}
+
+/* สีของ Label เมื่อ Input Field ได้รับการ focus */
+.input-focused .label {
+  color: #9c27b0; 
+  font-weight: 600;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

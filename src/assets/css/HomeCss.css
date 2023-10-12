@@ -1,0 +1,31 @@
+.card-bg {
+    background-color: rgba(0,0,0,.03);
+}
+
+.card-icon-bg-save {
+    color: #18c937;
+}
+
+.card-icon-bg-dont-save {
+    color: #c11414;
+}
+
+.bg-btn-save {
+    background-color: #18c937;
+}
+
+.color-violet-700 {
+    color: #712eda;
+}
+
+.css-1xc3v61-indicatorContainer{
+    cursor: pointer;
+}
+
+.css-13cymwt-control {
+    padding: 2px;
+}
+
+.md-flex-unset {
+    flex-direction: unset;
+  }
